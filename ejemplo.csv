@@ -1,0 +1,6 @@
+Unnamed: 0,Row,Anon Student Id,Problem Hierarchy,Problem Name,Problem View,Step Name,Step Start Time,First Transaction Time,Correct Transaction Time,Step End Time,Step Duration (sec),Correct Step Duration (sec),Error Step Duration (sec),Correct First Attempt,Incorrects,Hints,Corrects,KC(Default),Opportunity(Default)
+2215,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,5.00000,5.00000,NaN,0,1,1,0,Calculate unit rate,1
+2215,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,23.00000,NaN,23.00000,1,0,0,0,Calculate unit rate,2
+2215,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,18.00000,NaN,18.00000,0,1,0,1,Calculate unit rate,3
+2215,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,3.00000,3.00000,NaN,1,0,0,1,Calculate unit rate,4
+2215,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,13.00000,NaN,13.00000,0,1,0,0,Calculate unit rate,5
