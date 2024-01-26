@@ -1,5 +1,5 @@
-Id,Columna,Anon Student Id,Nombre lectura,Clave lectura,Problem View,Step Name,Tiempo inicio,Primera transaccion,Correcion transacion,Final,Duracion,Correcion duracion,Error duracion,Intento,Incorrecto,Pista,Correcto,KC(Default)
-1,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,5,5,NaN,0,1,1,0,Multiple whole number
-2,2,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,23,NaN,23,1,0,0,1,Multiple terminating proper 
-3,3,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,18,NaN,18,0,1,0,1,Multiple imperfect radical
-4,4,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,3,3,NaN,1,0,1,0,Multiple terminating proper fraction
+Id,Columna,Anon Student Id,Nombre lectura,Clave lectura,Problem View,Step Name,Tiempo inicio,Primera transaccion,Correcion transacion,Final,Duracion,Correcion duracion,Error duracion,Intento,Incorrecto,Pista,Correcto,KC(Default),Opportunity(Default)
+1,1,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,5,5,NaN,0,1,1,0,Multiple whole number,1
+2,2,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,23,NaN,23,1,0,0,1,Multiple terminating proper ,2
+3,3,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,18,NaN,18,0,1,0,1,Multiple imperfect radical,3
+4,4,22te0015,Lectura 1 La Marcha de las Jacarandas,LMJ001,Cuestionario,21/01/2024,21/01/2024,21/01/2024,21/01/2024,21/01/2024,3,3,NaN,1,0,1,0,Multiple terminating proper fraction,4
